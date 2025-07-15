@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/VishnuMishra007/todoapp-react/issues"
   },
-  "homepage": "https://github.com/VishnuMishra007/todoapp-react#readme",
+  "homepage": "https://github.com/VishnuMishra007/todoapp-react",
   "devDependencies": {
     "gh-pages": "^6.3.0",
     "parcel": "^2.15.4"
