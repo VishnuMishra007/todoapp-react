@@ -6,7 +6,7 @@
   "source": "public/index.html",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build",
+    "build": "parcel build public/index.html --public-url /todoapp-react/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
